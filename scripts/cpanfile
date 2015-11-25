@@ -1,0 +1,14 @@
+requires 'perl', '5.010';
+
+requires 'App::Options';
+requires 'autodie';
+requires 'Capture::Tiny';
+requires 'Data::Dump';
+requires 'Digest::SHA';
+requires 'Encode';
+requires 'IPC::System::Simple';
+requires 'JSON';
+requires 'Lingua::JA::Numbers';
+requires 'LWP::UserAgent';
+requires 'Time::HiRes';
+requires 'URL::Encode';
